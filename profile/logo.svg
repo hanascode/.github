@@ -1,4 +1,5 @@
-<svg style="isolation:isolate" viewBox="0 0 390 60" width="390pt" height="60pt">
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 390 60" width="390pt" height="60pt">
 	<g>
 		<linearGradient id="_lgradient_0" x1="0.5" y1="1" x2="0.49999999999999983" y2="0" gradientTransform="matrix(30,0,0,30,348,15.04)" gradientUnits="userSpaceOnUse">
 			<stop offset="2.083333333333333%" stop-opacity="1" style="stop-color:rgb(235,51,73)"/>
