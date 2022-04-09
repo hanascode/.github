@@ -10,7 +10,7 @@
 		}
 
 		.sakura {
-			animation: rotate 1s ease-in-out infinite;
+			animation: rotate 3s ease-in-out infinite;
 			transform-origin: center;
 			transform-box: fill-box;
 			transform-origin: 50% 22px;
